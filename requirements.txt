@@ -1,1 +1,5 @@
 streamlit
+matplotlib
+langchain
+langchain_community
+openai
